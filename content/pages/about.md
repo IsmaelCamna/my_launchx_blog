@@ -9,13 +9,21 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> I studied Mechatronic Enginner
+> I am a Viajero at Innovacion Virtual and Explorer at LaunchX
+> I would like learn Web Development
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+👀 I’m interested in:
+Embedded Systems
+Robotics
+Microsoft Azure
+Programming (Python/C/C++)
+Electronics
+Artificial Intellgence (Computer Vision/Machine Learning/Chatbots)
+
+🌱 I’m currently learning:
+Python
+C/C++
+Web Development
+IoT
 
